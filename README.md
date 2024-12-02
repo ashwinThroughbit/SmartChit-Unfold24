@@ -6,7 +6,7 @@ This project is a decentralized application (DApp) built using **React.js** for 
 - **Create Chits**: Users can create a new chit fund by specifying the amount, number of participants, and the initial installment.
 - **Join Chits**: Users can join existing chits by contributing to the fund.
 - **Track Participation**: Users can see their participation status in different chits, whether they are a creator or participant.
-- **Blockchain Integration**: Interactions such as joining a chit and making payments are done via Ethereum smart contracts.
+- **Blockchain Integration**: Interactions such as joining a chit and making payments are done via Base smart contracts.
 - **Responsive Design**: The app is built to be responsive and functional across multiple devices.
 
 ---
